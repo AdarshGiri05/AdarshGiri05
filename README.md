@@ -1,7 +1,8 @@
 # 💫 About Me:
-Building web development projects and improving my coding skills in HTML, CSS, and JavaScript.<br>Creative web projects, college assignments, and beginner-friendly open-source work.<br>Advanced JavaScript concepts, GitHub projects, and real-world project ideas.<br>Full-stack web development and improving my problem-solving skills.
-
-
+BCA 3rd Year student interested in Software Development and Web Development.
+Currently improving my skills in Java, HTML, CSS, JavaScript, and Python.
+I enjoy building projects, solving problems, and learning new technologies.
+Exploring GitHub, open-source projects, and real-world development. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-giri-8b3497398?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Adarshcodes_00) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshgiriag2006@gmail.com) 
 
